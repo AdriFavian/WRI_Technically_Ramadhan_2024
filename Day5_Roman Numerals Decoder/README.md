@@ -1,4 +1,4 @@
-## Day 4
+## Day 5
 `Source:`
 ```txt
 https://www.codewars.com/kata/51b6249c4612257ac0000005
